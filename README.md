@@ -1,4 +1,6 @@
-# PILAR
+# PILAR: Personalizing Augmented Reality Interactions with LLM-based Human-Centric and Trustworthy Explanations for Daily Use Cases
+![PILARteaser8_page-0001](https://github.com/user-attachments/assets/ab885aba-f51c-41c9-8a90-7ea70bda701a)
+
 
 ## Unity Version
 This project is built using **Unity 202.3.23f1**.
