@@ -43,9 +43,6 @@ After entering your credentials, the system will be ready to interact with OpenA
 
 ## Video Walkthrough
 
-Watch the walkthrough video on how to use this app:
-
-[Click here to watch the video](https://drive.google.com/file/d/1B-ePOaVpwOCL4R7bpOzKbX-213F7LuFm/view?usp=sharing)
 
 ## Features
 - **Recipe Search**: Allows users to search for recipes using the Edamam Recipe API.
